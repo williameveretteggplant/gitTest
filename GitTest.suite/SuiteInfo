@@ -1,15 +1,1 @@
-﻿{
-    EPVersionNumber = 2003191036;
-    Schedules =     (
-    );
-    ScriptMetaData =     {
-    };
-    SuiteEncodedTextKey = "x2%uITqziz,LOB1J";
-    helpedSuitesInfo =     (
-    );
-    helperSuitesInfo =     (
-                {
-            filePath = "/Users/williameverett/Documents/gitTest/gitTestHelper.suite";
-        }
-    );
-}
+﻿{EPVersionNumber = 2003191401; Schedules = (); ScriptMetaData = {}; SuiteEncodedTextKey = "x2%uITqziz,LOB1J"; helpedSuitesInfo = (); helperSuitesInfo = ({filePath = "C:/Users/williameverett/Documents/gitTest/gitTestHelper.suite"; }); }
