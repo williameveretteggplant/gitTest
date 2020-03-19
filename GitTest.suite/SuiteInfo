@@ -1,5 +1,5 @@
 ﻿{
-    EPVersionNumber = 2003190954;
+    EPVersionNumber = 2003191036;
     Schedules =     (
     );
     ScriptMetaData =     {
@@ -8,5 +8,8 @@
     helpedSuitesInfo =     (
     );
     helperSuitesInfo =     (
+                {
+            filePath = "/Users/williameverett/Documents/gitTest/gitTestHelper.suite";
+        }
     );
 }
