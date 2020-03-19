@@ -1,0 +1,3 @@
+﻿repeat 10 times
+	put "hello"
+end repeat
